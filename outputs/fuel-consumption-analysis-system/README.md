@@ -14,8 +14,7 @@ fuel-consumption-analysis-system/
 ├── requirements.txt
 ├── .env.example           # Database settings template
 ├── .gitignore
-└── README.md
-```
+   └── README.md 
 
 ## Requirements
 
